@@ -546,7 +546,7 @@
    *          If you want to mitigate this, please install ep_hash_auth and
    *          follow the section "secure your installation" in README.md
    */
-"requireAuthentication": false
+"requireAuthentication": false,
 
   "users": {
     "admin": {
